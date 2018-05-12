@@ -1,0 +1,32 @@
+_repo: Matthew-Arnold-s-Sohrab-and-Rustum-and-Other-Poems_13364
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arnold, Matthew
+    birthdate: 1822
+    deathdate: 1888
+    gutenberg_agent_id: '1401'
+    url: http://www.gutenberg.org/2009/agents/1401
+    wikipedia: http://en.wikipedia.org/wiki/Matthew_Arnold
+  editor:
+    agent_name: Castleman, Justus Collins
+    alias: Castleman, J. C. (Justus Collins)
+    gutenberg_agent_id: '38873'
+    url: http://www.gutenberg.org/2009/agents/38873
+description: ''
+gutenberg_issued: '2004-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13364'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+title: Matthew Arnold's Sohrab and Rustum and Other Poems
+url: http://www.gutenberg.org/ebooks/13364
