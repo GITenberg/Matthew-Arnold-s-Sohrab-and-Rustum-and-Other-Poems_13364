@@ -1090,7 +1090,7 @@ When Rustum was in front of every fray;                               80
 But now he keeps apart, and sits at home,
 In Seistan,° with Zal, his father old.                               °82
 Whether that his own mighty strength at last
-Peels the abhorr'd approaches of old age,
+Feels the abhorr'd approaches of old age,
 Or in some quarrel° with the Persian King.°                          °85
 There go°!--Thou wilt not? Yet my heart forebodes                    °86
 Danger or death awaits thee on this field.
@@ -1237,7 +1237,7 @@ And he is young, and Iran's° chiefs are old,                        °217
 Or else too weak; and all eyes turn to thee.
 Come down and help us, Rustum, or we lose!"
 
-He spoke; but Rustum answer'd with, a smile:--                       220
+He spoke; but Rustum answer'd with a smile:--                       220
 "Go to°! if Iran's chiefs are old, then I                           °221
 Am older; if the young are weak, the King
 Errs strangely; for the King, for Kai Khosroo,°                     °223
@@ -1509,7 +1509,7 @@ And he too drew his sword; at once they rush'd
 Together, as two eagles on one prey
 Come rushing down together from the clouds,
 One from the east, one from the west; their shields
-Bash'd with a clang together, and a din.                             475
+Bash'd with a clang together, and a din                             475
 Rose, such as that the sinewy woodcutters
 Make often in the forest's heart at morn,
 Of hewing axes, crashing trees--such blows
@@ -1569,7 +1569,7 @@ And bear thy trophies to Afrasiab's tent.                            530
 Or else that the great Rustum would come down
 Himself to fight, and that thy wiles would move
 His heart to take a gift, and let thee go.
-And then all the Tartar host would praise
+And then that all the Tartar host would praise
 Thy courage or thy craft, and spread thy fame,                       535
 To glad° thy father in his weak old age.                            °536
 Fool, thou art slain, and by an unknown man!
@@ -1904,7 +1904,7 @@ Flow'd with the stream;--all down his cold white side
 The crimson torrent ran, dim now and soil'd,
 Like the soil'd tissue of white violets
 Left, freshly gather'd, on their native bank,                        845
-By children whom their nurses call with haste.
+By children whom their nurses call with haste
 Indoors from the sun's eye; his head droop'd low,
 His limbs grew slack; motionless, white, he lay--
 White, with eyes closed; only when heavy gasps,
@@ -4488,7 +4488,7 @@ Who though so noble, share in the world's toil.
 And, though so task'd, keep free from dust and soil!                  80
 
 I will not say that your mild deeps retain
-A tinge, it may he, of their silent pain
+A tinge, it may be, of their silent pain
 Who have longed deeply once, and longed in vain--
 But I will rather say that you remain
 A world above man's head, to let him see                              85
